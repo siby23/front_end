@@ -73,7 +73,7 @@ console.log(error);
 
                             />
                         </div>
-                        <Button type="submit" className="bg-blue-400 py-4 text-center px-17 md:px-12 md:py-4 text-white rounded leading-tight text-xl md:text-base font-sans mt-4 mb-20" >Login</Button>
+                        <Button type="submit" className="bg-blue-400 py-4 text-center px-17 md:px-12 md:py-4 text-white rounded leading-tight text-xl md:text-base font-sans mt-4 mb-20" >login</Button>
                     </form>
                 </div>
             </div>
